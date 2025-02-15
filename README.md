@@ -14,39 +14,39 @@ I am an Innovator with 8+ years of engineering and consulting expertise. Current
 
   # Let's talk some tech!
 
-  > Tech domains🧘      
+  > ## Tech domains🧘      
     >  ML, MLOps, Data Science, Statistical analysis,
     > Advanced stat techniques,
       software and data engineering
   
-  > Cloud 🌨️            
+  > ## Cloud 🌨️            
     > GCP | Azure, ADLS, Databricks | AWS, EC2, Lambda|
   
-  > MLOps 🥷:              
+  > ## MLOps 🥷:              
     > Azure DevOps, GitHub actions, MLFlow, Docker, ML pipeline design and dev, 
       workflow Orchestration, Product deployments
   
-  > GCP 👩‍💻               
+  > ## GCP 👩‍💻               
     > Vertex AI, Cloudrun, Kubeflow pipelines,
     > Bigquery, Redis Memorystore, Traces
   
-  > Development🔌 
+  > ## Development🔌 
     - Python | pySpark | R | SparkR | SQL | C++ | yaml and shell scripting
       
-  > Deep learning🌋
+  > ## Deep learning🌋
     > Keras & Tensorflow models/networks | Computer vision,
     > Document extraction(CV), Image processing, Object detection | Chatbots
   
-  > Data🤹:
+  > ## Data🤹:
     > ADLS, MongoDB, Redis, AlloyDB, DBFS, GCS, DBT CLI & cloud
   
-  > Viz 💹:                    
+  > ## Viz 💹:                    
     > PowerBI | Qlikview| Tableau
   
-  > DSA🧠:  
+  > ## DSA🧠:  
     > Arrays, Recursion, Sliding window algorithms,
     > Heaps, Binary search, Trees and Graphs, DFS & BFS
   
-  GenAI
+  > ## GenAI
     > OpenAI, LangChain & Huggingface model APIs
 
