@@ -15,9 +15,9 @@ I am an Innovator with 8+ years of engineering and consulting expertise. Current
 - ⚡ Fun fact:  I learned swimming from Youtube! 
 
 
-  # Lrt's talk some tech!
+  # Let's talk some tech!
 
-  Tech domains🧘:          
+  > Tech domains🧘:          
     -  ML, MLOps, Data Science, Statistical analysis, Advanced stat techniques,
       software and data engineering
 
