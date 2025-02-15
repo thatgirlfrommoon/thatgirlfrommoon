@@ -10,7 +10,7 @@ I am an Innovator with 8+ years of engineering and consulting expertise. Current
 
 
 ## More about me!
-- ⚡ I am keen about: Building solution on LLM models to learn discuss more about GenAI developments!
+- ⚡ I am keen about: Building LLM based solutions, share & discuss GenAI developments with community!
 - 📫 How to reach me: [Mail](harithac.contactmail@gmail.com) and [linkedIn](https://www.linkedin.com/in/haritha-c-7416b0123/)
 - ⚡ Fun fact:  I learned swimming from Youtube! 
 
