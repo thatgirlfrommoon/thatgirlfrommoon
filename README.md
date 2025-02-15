@@ -8,7 +8,8 @@ I am an Innovator with 8+ years of engineering and consulting expertise. Current
 
 - 🔭 At work, I am spearheading the development of ML and data workflows in Google Cloud Platform (GCP), enhancing performance and scalability, by leveraging Vertex AI to orchestrate end-to-end ML pipelines and robust MLOps practices to ensure seamless deployment. I Craft and manage sophisticated CI/CD pipelines on GitHub, automating the lifecycle of machine learning applications from development to deployment.
 
-🚀 # More about me!
+
+##🚀 More about me!
 - ⚡ I am keen about: Building solution on LLM models to learn discuss more about GenAI developments!
 - 📫 How to reach me: @harithac.contactmail@gmail.com and https://www.linkedin.com/in/haritha-c-7416b0123/
 - ⚡ Fun fact: I learned swimming from Youtube!
