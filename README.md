@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Haritha 👋
 Connect with me at @harithac.contactmail@gmail.com to discuss an opportunity! 🚀
 
 ## ✨ Thank you for stopping by! ✨  
