@@ -1,4 +1,5 @@
 ## Hi there 👋
+Connect with me at @harithac.contactmail@gmail.com to discuss an opportunity! 🚀
 
 <!--
 **thatgirlfrommoon/thatgirlfrommoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
