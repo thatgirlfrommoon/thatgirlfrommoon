@@ -1,7 +1,7 @@
 ## Hi there 👋
 Connect with me at @harithac.contactmail@gmail.com to discuss an opportunity! 🚀
 
-<!--
+
 ✨ Thank you for stopping by! ✨  
 I am an Innovator with 8+ years of engineering and consulting expertise, with a strong academic foundation in Machine learning ( M.Tech ). Currently contributing expertise to organizations while we identify Advanced Analytics and ML opportunities and deliver data-driven, decision-making, go-to-market solutions to existing operational framework dilemmas.
 
@@ -43,4 +43,3 @@ I am an Innovator with 8+ years of engineering and consulting expertise, with a 
   
   GenAI : OpenAI, LangChain, Huggingface
 
--->
