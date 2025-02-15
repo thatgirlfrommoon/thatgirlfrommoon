@@ -15,27 +15,38 @@ I am an Innovator with 8+ years of engineering and consulting expertise. Current
   # Let's talk some tech!
 
   > Tech domains🧘      
-    -  ML, MLOps, Data Science, Statistical analysis, Advanced stat techniques,
+    >  ML, MLOps, Data Science, Statistical analysis,
+    > Advanced stat techniques,
       software and data engineering
+  
   > Cloud 🌨️            
-    - GCP | Azure, ADLS, Databricks | AWS, EC2, Lambda|
+    > GCP | Azure, ADLS, Databricks | AWS, EC2, Lambda|
+  
   > MLOps 🥷:              
-    - Azure DevOps, GitHub actions, MLFlow, Docker, ML pipeline design and dev, 
+    > Azure DevOps, GitHub actions, MLFlow, Docker, ML pipeline design and dev, 
       workflow Orchestration, Product deployments
+  
   > GCP 👩‍💻               
-    - Vertex AI, Cloudrun, Kubeflow pipelines, Bigquery, Redis Memorystore, Traces
+    > Vertex AI, Cloudrun, Kubeflow pipelines,
+    > Bigquery, Redis Memorystore, Traces
+  
   > Development🔌 
-    - Python | pySpark | R | SparkR | SQL | C++ | yaml and shell scripting 
+    - Python | pySpark | R | SparkR | SQL | C++ | yaml and shell scripting
+      
   > Deep learning🌋
-    - Keras & Tensorflow models/networks | Computer vision,
-      Document extraction(CV), Image processing, Object detection | Chatbots
+    > Keras & Tensorflow models/networks | Computer vision,
+    > Document extraction(CV), Image processing, Object detection | Chatbots
+  
   > Data🤹:
-    - ADLS, MongoDB, Redis, AlloyDB, DBFS, GCS, DBT CLI & cloud
+    > ADLS, MongoDB, Redis, AlloyDB, DBFS, GCS, DBT CLI & cloud
+  
   > Viz 💹:                    
-    - PowerBI | Qlikview| Tableau
+    > PowerBI | Qlikview| Tableau
+  
   > DSA🧠:  
-    - Arrays, Recursion, Sliding window algorithms,
-      Heaps, Binary search, Trees and Graphs, DFS & BFS
+    > Arrays, Recursion, Sliding window algorithms,
+    > Heaps, Binary search, Trees and Graphs, DFS & BFS
+  
   GenAI
-    - OpenAI, LangChain & Huggingface model APIs
+    > OpenAI, LangChain & Huggingface model APIs
 
