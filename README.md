@@ -31,7 +31,7 @@ I am an Innovator with 8+ years of engineering and consulting expertise. Current
     > Bigquery, Redis Memorystore, Traces
   
   > ## Development🔌 
-    - Python | pySpark | R | SparkR | SQL | C++ | yaml and shell scripting
+    > Python | pySpark | R | SparkR | SQL | C++ | yaml and shell scripting
       
   > ## Deep learning🌋
     > Keras & Tensorflow models/networks | Computer vision,
